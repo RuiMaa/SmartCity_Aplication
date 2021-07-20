@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">SmartCity_Aplication</string>
+    <string name="app_name">CityPointECGM</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="pass" translatable="false">Password</string>
+    <string name="inf1" translatable="false">example@email.com</string>
+    <string name="btlogin" translatable="false">Login</string>
+    <string name="btnote" translatable="false">Personal Notes</string>
+    <string name="txtit" translatable="false">Title</string>
+    <string name="txtext" translatable="false">Text</string>
+    <string name="txdate" translatable="false">Date</string>
+    <string name="inftit" translatable="false">Road</string>
+    <string name="inftex" translatable="false">Cut road</string>
+    <string name="date">__/__/____</string>
+    <string name="btguardar" translatable="false">Save</string>
+    <string name="btremove" translatable="false">Delete</string>
+    <string name="note" translatable="false">Notes</string>
+    <string name="addnote" translatable="false">Add Note</string>
+    <string name="editnote" translatable="false">Edit Note</string>
 </resources>

@@ -6,6 +6,7 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import dao.Notadao
+import entities.Notaent
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 
